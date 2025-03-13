@@ -24,7 +24,7 @@ export default async function page({ params }) {
         <Card>
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              {data[0].name}
+              {data[0].name}...
             </Typography>
           </CardContent>
           <CardMedia
